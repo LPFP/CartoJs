@@ -38,7 +38,7 @@ marker.bindPopup(
 // Mapillary Params
 // mapi_id est valable que pour le domaine Github.com
 var mapi_id = 'enpzOU5oNGZIQW1NLTI0T2JrdGFmQTo0NDJjMTkzMzEwMDQxNGE4';
-var mapi_photoid = 'a74JPL0PODuEYPpXS4afeA';
+var mapi_photoid = '9bKLvXb1SGL6xQX54vWttA';
 
 var mly = new Mapillary.Viewer(
 		'mly',
