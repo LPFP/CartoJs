@@ -12,6 +12,10 @@ var tiles = new L.TileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
 var fablat = 48.85516458113589;
 var fablng = 2.3919349908828735;
 
+// mapi_id est valable que pour le domaine Github.com
+var mapi_id = 'enpzOU5oNGZIQW1NLTI0T2JrdGFmQTo0NDJjMTkzMzEwMDQxNGE4';
+var mapi_photoid = 'qTfbBM92Wrx2LNELoprtXw';
+
 // Map Parmas
 var map = new L.Map('map', {
 	'center': [48.85586696617964, 2.392023503780365],
@@ -31,15 +35,11 @@ marker.bindPopup(
 	"86 Av Philippe Auguste <br>" +
 	"75011 Paris" +
 	"<center><a target='_blank' href='https://www.openstreetmap.org/node/4352430942'>ouvrir dans Open Street Map</a></center>" +
-	"<center><a target='_blank' href='http://mapillary.com/map/im/qTfbBM92Wrx2LNELoprtXw'>ouvrir dans Mapillary</a></center>"
+	"<center><a target='_blank' href=" + 'http://mapillary.com/map/im/' + mapi_photoid + ">ouvrir dans Mapillary</a></center>"
 
 ).openPopup();
 
 // Mapillary Params
-// mapi_id est valable que pour le domaine Github.com
-var mapi_id = 'enpzOU5oNGZIQW1NLTI0T2JrdGFmQTo0NDJjMTkzMzEwMDQxNGE4';
-var mapi_photoid = 'qTfbBM92Wrx2LNELoprtXw';
-
 var mly = new Mapillary.Viewer(
 		'mly',
 		mapi_id,
