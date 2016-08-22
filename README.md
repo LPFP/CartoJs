@@ -9,4 +9,4 @@ Go to [Mapillary.com](https://www.mapillary.com/app/settings/developers) and che
 
 
 # Affiche public
-Trouver ici le [dossier](https://robyremzy.github.io/lpfdp/affiche) de l'affiche public des "portes ouvertes" du petits FabLab.
+Trouver ici le [dossier](https://github.com/RobyRemzy/lpfdp/tree/master/affiche) de l'affiche public des "portes ouvertes" du petits FabLab.
