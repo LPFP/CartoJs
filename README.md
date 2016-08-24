@@ -1,5 +1,5 @@
 # lpfdp
-This repo regroupe some quick sketch for "Le petit Fab Lab de Paris".
+This repo regroups some quick sketches for [Le petit Fab Lab de Paris](http://lepetitfablabdeparis.fr/).
 
 # public billboards
 Find some public [billboards](https://github.com/RobyRemzy/lpfdp/tree/master/affiche) about Le petit FabLab de Paris.
