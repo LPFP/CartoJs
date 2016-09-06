@@ -2,7 +2,7 @@
 
 **Pourquoi?**
 
-Posséder une carte confidentielle ou nom, sur laquelle on peut y faire a peut près ce que l'ont veut. Avoir des coordonnées gps et une connaissance de l'état du territoire et ce que l'on peut y trouver ou ce qu'il y a déjà de recensé.
+Posséder une carte confidentielle ou non, sur laquelle on peut y faire a peut près ce que l'ont veut. Avoir des coordonnées gps et une connaissance de l'état du territoire et ce que l'on peut y trouver ou ce qu'il y a déjà de recensé.
 
 **connaissances après l'atelier**
 * établir une carte avec des outils libres.
