@@ -1,4 +1,4 @@
-L.Icon.Default.imagePath = '../../assests/img/';
+L.Icon.Default.imagePath = '../../assets/img/';
 
 //Type de carte
 var tiles = new L.TileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {

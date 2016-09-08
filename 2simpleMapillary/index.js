@@ -1,4 +1,4 @@
-L.Icon.Default.imagePath = '../../assests/img/';
+L.Icon.Default.imagePath = '../../assets/img/';
 
 // OSM Tiles
 // thunderforest
