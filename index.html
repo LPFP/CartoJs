@@ -7,10 +7,16 @@
   <meta name="author" content="Le Petit FabLap de Paris" />
   <meta name="description" content="Atelier Carto Js du petit FabLab de Paris" />
   <title>Ateliers Carto Indoor/Outdoor</title>
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="./css/leaflet.css" />
+  <!-- Mapillary -->
+  <link rel='stylesheet' href='https://unpkg.com/mapillary-js@1.6.0/dist/mapillary-js.min.css' />
   <!-- Main -->
-  <link rel='stylesheet' href='../assests/css/main.css' />
+  <link rel='stylesheet' href='./css/main.css' />
 </head>
 <body>
+  <script src="./js/leaflet.js"></script>
+  <script src='https://unpkg.com/mapillary-js@1.6.0/dist/mapillary-js.min.js'></script>
   <h1>Ateliers Carto Indoor/Outdoor</h1>
   <ul>
     <li>
@@ -20,8 +26,24 @@
       <a href="./2simpleMapillary">2simpleMapillary</a>
     </li>
     <!-- <li>
-      <a href="url">link text</a>
-    </li> -->
-  </ul>
+    <a href="url">link text</a>
+  </li> -->
+</ul>
+<div>
+  <center>
+    <a target='_blank' href='http://lepetitfablabdeparis.fr/'>
+      <img src="http://lepetitfablabdeparis.fr/wp-content/uploads/2012/11/logo-LPFP-color-3.png" alt="Le petit Fab Lab de Paris;">
+    </a>
+    <br>
+    <a target='_blank' href='https://github.com/RobyRemzy/lpfdp'>
+      view on GitHub
+    </a>
+  </center>
+  <br>
+</div>
+<div id='map'></div>
+<div id='mly'></div>
+
+<script type="text/javascript" src="index.js"></script>
 </body>
 </html>
