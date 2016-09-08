@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title>sample HTML</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+  <!-- CDN leaflet.css -->
+  <!-- Inclure un fichier .css -->
+
+</head>
+<body>
+  <!-- CDN leaflet.js -->
+
+  <!-- Inclure un fichier .js -->
+</body>
+</html>

@@ -1,15 +1,19 @@
-# lpfdp
-This repo regroups some quick sketches for [Le petit Fab Lab de Paris](http://lepetitfablabdeparis.fr/).
+# Ateliers Carto Indoor/Outdoor
 
-# public billboards
-Find some public [billboards](https://github.com/RobyRemzy/lpfdp/tree/master/affiche) about Le petit FabLab de Paris.
+Dans chaque dossier
+ * un exemple html/Js
+ * un readme/tuto de l'exemple
 
-NB: Fonts is [anonymous-pro](http://www.marksimonson.com/fonts/view/anonymous-pro) under Open Font License (OFL).
+Les exemples ont servi à recenser [Le petit FabLab de Paris](http://lepetitfablabdeparis.fr/) sur Open StreetMap, et à établir la "street view" libre avec Mapillary.
 
-# Open Mapping exemple
-OpenStreetMap and Mapillary source for Le Petit FabLab De Paris to see on [index.html](https://robyremzy.github.io/lpfdp).
-To use Mapillary scripts you have to use your own Mapillary ID for your domain name.
-Go to [Mapillary.com](https://www.mapillary.com/app/settings/developers) and check into your `profil developers` to create an ID with your domain name.
+**Code de conduite, pas plus de 6 chiffres après la virgule pour les Coords GPS.**
 
-# Voir le TUTO pour Atelier Carto Leaflet LPFP
-Fiche technique [Clicker sur le lien](/TUTO.md)
+```yaml
+# LPFP:
+latitude: 48.855164;
+longitude: 2.391934;
+```
+
+* Voir sur [OpenStreetMap](https://www.openstreetmap.org/node/4352430942)
+* Voir sur [Mapillary](http://mapillary.com/map/im/wOKiY2ym8_mAUbFdhU97PQ)
+* Voir les [exemples](index.html)
