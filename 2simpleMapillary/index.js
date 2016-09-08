@@ -11,8 +11,8 @@ var tiles = new L.TileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
 });
 
 // LPFLDP Coords
-var lat = 48.855164;
-var lng = 2.3919349;
+var fablat = 48.855164;
+var fablng = 2.3919349;
 
 // mapi_id est valable que pour le domaine Github.com
 var mapi_id = 'enpzOU5oNGZIQW1NLTI0T2JrdGFmQTo0NDJjMTkzMzEwMDQxNGE4';
