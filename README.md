@@ -16,4 +16,4 @@ longitude: 2.391934;
 
 * Voir sur [OpenStreetMap](https://www.openstreetmap.org/node/4352430942)
 * Voir sur [Mapillary](http://mapillary.com/map/im/wOKiY2ym8_mAUbFdhU97PQ)
-* Voir les exemples
+* Voir les exemples.
